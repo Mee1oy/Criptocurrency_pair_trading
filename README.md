@@ -4,7 +4,7 @@ This is algorithm for testing trading stratagy in cryptocurrency based on correl
 Main idea is to find pair of coins co compensate strong volatility on criptocurrency markets.
 
 Analisys script is based on Binance API
-In script analisys:
+In script analisys:\n
 0. I have downloaded the OHLCV data for all coins available to trade in binancf
 1. I tried to find coind with strong correlation.
 2. I'm using MACD indicator, calculated for each interesting pair.
@@ -22,5 +22,5 @@ In script virtual money trading:
 3. Result with opened positions and finential result will be printed after the main code cell and will be updated in real time.
 
 
-I will add another indicators later and will try to find more stable trading strategy.
+I will add another indicators later and will try to find more stable trading strategy.\n
 Welcome to use this idea)
