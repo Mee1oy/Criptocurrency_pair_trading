@@ -15,6 +15,7 @@ As a result we must make matrix with [coin1 , coin2 , ration] like this
 trading = [['XTZ','ALGO',2.9], ['VET','IOTA',2], ['ETC','BCH',2.9], ['BAT','QTUM',2.3]]
 You need to change date variable in code and uncomment the code below this variable to download new data for coins.
 It needs to chage MA param to change calcualating period of MACD
+This code needs Binance API token in both scripts
 
 Trading script is based on CCXT package (https://github.com/ccxt/ccxt) becouse Binance api was not working correct when I was developing this app.
 In script virtual money trading:
