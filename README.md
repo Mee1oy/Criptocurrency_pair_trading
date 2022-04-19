@@ -6,7 +6,7 @@ Main idea is to find pair of coins co compensate strong volatility on criptocurr
 Analisys script is based on Binance API
 In script analisys:
 
-0. I have downloaded the OHLCV data for all coins available to trade in binancf
+0. I have downloaded the OHLCV data for all coins available to trade in binance
 1. I tried to find coind with strong correlation.
 2. I'm using MACD indicator, calculated for each interesting pair.
 3. Then find the most reasonable ration for each pair. (ratio is calculated in %) with using visualisation.
