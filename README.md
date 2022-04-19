@@ -1,6 +1,6 @@
 # Criptocurrency_pair_trading
 
-This is algorithm for testing trading stratagy in cryptocurrency based on correlation between them. (Trere are 2 trades, one lonf and one short in 1 signal to trade.)
+This is algorithm for testing trading stratagy in cryptocurrency based on correlation between them. (Trere are 2 trades, one long and one short in 1 signal to trade.)
 Main idea is to find pair of coins co compensate strong volatility on criptocurrency markets.
 
 Analisys script is based on Binance API
